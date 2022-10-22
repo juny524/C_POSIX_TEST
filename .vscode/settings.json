@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "mainthread.h": "c",
+        "read.h": "c",
+        "cpuinfo.h": "c"
+    }
+}
